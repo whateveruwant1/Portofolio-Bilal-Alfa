@@ -1,0 +1,132 @@
+@font-face {
+    font-family: 'delagothic';
+    src: url(DelaGothicOne-Regular.ttf);
+}
+
+body{
+   background-color:#D6EFD8;
+   align-items: center;
+}
+.int1{
+    font-size:100px;
+    font-family:'delagothic', Helvetica, sans-serif;
+    color: #1A5319;
+    line-height: 90%;
+    text-align: center;
+}
+
+.int2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #508D4E;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 00px;
+}
+
+.container{
+    display:flex;
+    justify-content: center;
+}
+
+.img1{
+    width: 540px;
+    height: 540px;
+}
+
+.edc1{
+    font-size:100px;
+    font-family:'delagothic', Helvetica, sans-serif;
+    color: #1A5319;
+    line-height: 90%;
+    text-align: center;
+}
+
+.container1{
+    display: flex;
+    padding-left: 200px;
+}
+
+.edcimg1{
+    height: 250px;
+    width: 450px;
+    border-radius: 15px;
+    float: left;
+}
+
+.edc2{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #508D4E ;
+
+}
+
+.container1{
+    display: flex;
+}
+
+.skill{
+    font-size:100px;
+    font-family:'delagothic', Helvetica, sans-serif;
+    color: #1A5319;
+    line-height: 90%;
+    text-align: center;
+}
+
+.imgskill{
+    height: 450px;
+    width: 450px;
+    border-radius: 15px;
+    float: left;
+}
+
+.container2{
+    display: flex;
+    justify-content: center;
+}
+
+.skill1{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #508D4E ;
+}
+
+.git{
+    font-size:100px;
+    font-family:'delagothic', Helvetica, sans-serif;
+    color: #1A5319;
+    line-height: 90%;
+    text-align: center;
+}
+
+.git1{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    color: #508D4E ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.git2{
+    margin-bottom: 50px;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+    color: #508D4E ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn1{
+    padding-top: 50px;
+    margin-left: 689px;
+    background-color: #1A5319;
+    color:white ;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 10px 20px 10px 20px;
+}
+
+.Copyright{
+    text-align: center;
+    padding: 100px;
+    background-color: aqua;
+}
